@@ -1,0 +1,217 @@
+2024-09-19 11:35:21,152 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-09-19 11:35:21,447 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-09-19 11:35:21,571 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-09-19 11:35:21,780 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-09-19 11:35:21,933 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-09-19 11:35:22,043 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-09-19 11:35:23,664 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2024-09-19 12:59:14,667 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-09-19 12:59:14,939 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-09-19 12:59:15,042 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-09-19 12:59:15,212 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-09-19 12:59:15,347 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-09-19 12:59:15,445 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-09-19 12:59:17,424 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2024-09-22 15:38:46,438 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-09-22 15:38:46,879 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-09-22 15:38:46,988 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-09-22 15:38:47,153 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-09-22 15:38:47,320 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-09-22 15:38:47,439 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-09-22 15:38:49,303 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2024-10-01 10:49:16,884 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-10-01 10:49:17,241 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-10-01 10:49:17,385 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-10-01 10:49:17,574 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-10-01 10:49:17,720 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-10-01 10:49:17,842 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-10-01 10:49:19,702 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2024-10-01 14:20:25,762 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-10-01 14:20:26,047 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-10-01 14:20:26,169 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-10-01 14:20:26,357 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-10-01 14:20:26,529 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-10-01 14:20:26,637 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-10-01 14:20:28,265 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2024-10-01 14:24:05,744 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-10-01 14:24:06,070 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-10-01 14:24:06,185 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-10-01 14:24:06,369 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-10-01 14:24:06,513 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-10-01 14:24:06,616 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-10-01 14:24:08,454 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2024-10-04 12:32:45,502 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-10-04 12:32:45,836 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-10-04 12:32:45,942 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-10-04 12:32:46,100 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-10-04 12:32:46,230 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-10-04 12:32:46,341 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-10-04 12:32:47,964 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2024-10-04 12:34:36,003 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-10-04 12:34:36,298 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-10-04 12:34:36,406 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-10-04 12:34:36,570 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-10-04 12:34:36,712 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-10-04 12:34:36,817 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-10-04 12:34:38,446 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2024-10-04 12:38:25,543 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-10-04 12:38:25,827 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-10-04 12:38:25,926 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-10-04 12:38:26,071 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-10-04 12:38:26,163 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-10-04 12:38:26,263 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-10-04 12:38:28,449 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2024-10-08 16:31:53,364 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-10-08 16:31:53,706 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-10-08 16:31:53,807 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-10-08 16:31:54,008 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-10-08 16:31:54,152 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-10-08 16:31:54,253 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-10-08 16:31:55,741 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2024-10-08 16:33:57,889 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-10-08 16:33:58,210 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-10-08 16:33:58,328 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-10-08 16:33:58,515 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-10-08 16:33:58,668 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-10-08 16:33:58,762 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-10-08 16:34:00,721 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2024-10-08 16:44:02,497 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-10-08 16:44:02,831 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-10-08 16:44:02,934 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-10-08 16:44:03,095 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-10-08 16:44:03,246 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-10-08 16:44:03,351 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-10-08 16:44:03,455 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2024-10-08 16:49:44,238 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Opened the Register Page
+2024-10-08 16:49:44,548 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered FirstName
+2024-10-08 16:49:44,769 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered LastName
+2024-10-08 16:49:44,964 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered EmailAddress
+2024-10-08 16:49:45,121 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_Password
+2024-10-08 16:49:45,239 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Entered Encripted_ConformPassword
+2024-10-08 16:49:46,920 - com_TestCases.Tc_001_Luma_Registration_Page -INFO - Click on the Button to Register
+2025-01-14 13:44:14,179 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-14 13:44:14,486 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-14 13:44:14,582 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-14 13:44:14,730 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-14 13:44:14,860 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-14 13:44:14,957 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-14 13:44:16,581 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-14 13:52:54,452 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-14 13:52:54,603 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-14 13:52:54,709 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-14 13:52:54,871 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-14 13:52:55,015 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-14 13:52:55,119 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-14 13:52:57,062 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-14 13:58:11,837 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-14 13:58:11,987 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-14 13:58:12,099 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-14 13:58:12,267 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-14 13:58:12,406 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-14 13:58:12,515 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-14 13:58:14,312 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-14 14:38:39,497 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-14 14:38:39,780 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-14 14:38:39,892 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-14 14:38:40,162 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-14 14:38:40,326 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-14 14:38:40,427 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-14 14:38:42,248 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-15 13:08:09,108 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-15 13:08:09,270 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-15 13:08:09,379 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-15 13:08:09,518 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-15 13:08:09,683 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-15 13:08:09,799 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-15 13:08:11,535 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-15 17:12:17,017 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-15 17:12:17,173 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-15 17:12:17,273 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-15 17:12:17,420 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-15 17:12:17,567 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-15 17:12:17,690 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-15 17:12:19,696 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-20 11:43:41,243 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-20 11:43:41,417 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-20 11:43:41,509 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-20 11:43:41,651 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-20 11:43:41,797 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-20 11:43:41,925 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-20 11:43:44,333 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-20 11:46:45,536 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-20 11:46:45,678 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-20 11:46:45,803 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-20 11:46:45,985 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-20 11:46:46,134 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-20 11:46:46,254 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-20 11:46:49,635 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-20 11:55:42,976 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-20 11:55:43,192 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-20 11:55:43,314 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-20 11:55:43,516 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-20 11:55:43,670 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-20 11:55:43,774 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-20 11:55:46,080 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-20 11:57:12,927 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-20 11:57:13,082 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-20 11:57:13,193 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-20 11:57:13,331 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-20 11:57:13,472 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-20 11:57:13,583 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-20 11:57:16,840 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-20 12:15:54,105 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-20 12:15:54,237 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-20 12:15:54,326 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-20 12:15:54,468 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-20 12:15:54,607 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-20 12:15:54,709 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-20 12:15:56,465 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-20 12:17:56,869 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-20 12:17:57,018 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-20 12:17:57,109 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-20 12:17:57,255 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-20 12:17:57,390 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-20 12:17:57,495 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-20 12:17:59,443 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-20 12:18:42,589 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-20 12:18:42,728 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-20 12:18:42,828 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-20 12:18:43,003 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-20 12:18:43,151 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-20 12:18:43,254 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-20 12:18:45,038 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-21 10:03:17,989 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-21 10:03:18,145 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-21 10:03:18,237 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-21 10:03:18,364 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-21 10:03:18,493 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-21 10:03:18,595 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-21 10:03:20,291 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-21 11:36:22,811 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-21 11:36:22,963 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-21 11:36:23,052 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-21 11:36:23,283 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-21 11:36:23,494 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-21 11:36:23,634 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-21 11:36:25,359 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-21 11:37:10,756 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-21 11:37:10,919 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-21 11:37:11,032 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-21 11:37:11,169 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-21 11:37:11,321 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-21 11:37:11,474 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-21 11:37:13,208 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-21 11:40:31,728 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-21 11:40:31,883 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-21 11:40:31,977 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-21 11:40:32,122 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-21 11:40:32,255 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-21 11:40:32,351 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-21 11:40:34,306 - Hybrid_Framework_01 -INFO - Click on the Button to Register
+2025-01-21 14:41:38,005 - Hybrid_Framework_01 -INFO - Opened the Register Page
+2025-01-21 14:41:38,142 - Hybrid_Framework_01 -INFO - Entered FirstName
+2025-01-21 14:41:38,242 - Hybrid_Framework_01 -INFO - Entered LastName
+2025-01-21 14:41:38,419 - Hybrid_Framework_01 -INFO - Entered EmailAddress
+2025-01-21 14:41:38,596 - Hybrid_Framework_01 -INFO - Entered Encripted_Password
+2025-01-21 14:41:38,718 - Hybrid_Framework_01 -INFO - Entered Encripted_ConformPassword
+2025-01-21 14:41:41,572 - Hybrid_Framework_01 -INFO - Click on the Button to Register
