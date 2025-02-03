@@ -20,6 +20,15 @@
 				<version>3.11.0</version>
 				<configuration>
 					<!-- put your configurations here -->
+					<annotationProcessorPaths>
+						<path>
+							<groupId>org.projectlombok</groupId>
+							<artifactId>lombok</artifactId>
+							<version>1.18.28</version> <!-- Use the latest
+							version -->
+						</path>
+					</annotationProcessorPaths>
+
 				</configuration>
 			</plugin>
 
@@ -93,6 +102,14 @@
 			<artifactId>commons-lang3</artifactId>
 			<version>3.14.0</version>
 		</dependency>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.28</version> <!-- Use the latest version -->
+			<scope>provided</scope>
+		</dependency>
+		<!--https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+		-->
 
 
 	</dependencies>
